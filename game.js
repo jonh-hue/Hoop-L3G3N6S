@@ -273,7 +273,7 @@ function startHighlightMoment(scorerEntry) {
 
 function updateHighlight(dt) {
     highlightTimer -= dt;
-    if (highlightTimer <= 0) {
+    if (highlightTimer = 0) {
         highlightMode = false;
         playerFrozen = false;
         startNextPossession();
