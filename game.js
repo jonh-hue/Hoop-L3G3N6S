@@ -1,5 +1,4 @@
-</body>
-</html>
+
 // 21 H00P L3G37Ds - game.js
 // PART 1 — Core Engine, Rendering, Player Movement, Input, Highlight System
 
